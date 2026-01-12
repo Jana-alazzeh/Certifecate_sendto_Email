@@ -10,9 +10,9 @@ import os
 # 🔴 1. NAMES AND EMAILS (REMEMBER TO USE ACTUAL EMAILS) 🔴
 # =========================================================
 names_list = [
-    {"name": "jjjjjjjjji", "email": "fm.mobile.494@gmail.com"},
-    {"name": "Farah Yahya Aboushi", "email": "aboush ifarah@gmail.com"},
-    {"name": "Farhhhhhhhhhhi", "email": "fm.mobile.494@gmail.com"},
+    {"name": "jana", "email": "jana@gmail.com"},
+    {"name": "", "email": "@gmail.com"},
+    {"name": "", "email": "@gmail.com"},
    
     
 
@@ -24,8 +24,8 @@ names_list = [
 # =========================================================
 SMTP_SERVER = 'smtp.gmail.com'     
 SMTP_PORT = 587
-SENDER_EMAIL = 'jana.alazzeh4931@gmail.com'
-SENDER_PASSWORD = 'mnyz jegb hitl bijj'
+SENDER_EMAIL = '-----------------'
+SENDER_PASSWORD = '**** **** **** ****'
 
 # =========================================================
 # 3. SMTP CONNECTION SETUP
