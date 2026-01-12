@@ -1,12 +1,15 @@
 from PIL import Image, ImageDraw, ImageFont 
 import os 
 
-# 1. قائمة الأسماء:
+# 1. الاسماء وهمية ! قائمة الأسماء:
 names_list = [
-    "Malak Mansour Alawar",
-    "Feras Mohammed Salameh",
-    "Tabark Khalid Abutair",
-    "Mohammad Abdullah Amawi",
+"Hala Samer Al-Qadi",
+
+"Karem Walid Jaber",
+
+"Noor Eddin Al-Fares",
+
+"Sara Yousif Al-Salem" 
 ]
 
 # 2. إعداد المسارات:
