@@ -14,7 +14,9 @@ names_list = [
 
 # 2. إعداد المسارات:
 output_folder = "Certificates"
-os.makedirs(output_folder, exist_ok=True) 
+os.makedirs(output_folder, exist_ok=True)
+
+
 
 # إعدادات الخط الرئيسي (الاسم)
 font_path = "Alice/Alice-Regular.ttf" 
@@ -73,7 +75,6 @@ for index, name in enumerate(names_list):
     text_position = (X_position, Y_start)
 
     # 4. رسم الاسم مع الستروك (تجنب الرسم مرتين)
-    # ملاحظة: تم حذف سطر draw.text المكرر، ورسم الاسم مرة واحدة فقط مع كل التنسيقات
     draw.text(
         text_position, 
         name, 
